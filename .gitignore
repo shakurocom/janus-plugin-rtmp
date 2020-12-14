@@ -18,4 +18,4 @@ missing
 **/.libs
 **/.deps
 **/.dirstamp
-libjanus_live.la
+libjanus_*.la
