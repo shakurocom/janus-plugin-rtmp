@@ -52,3 +52,9 @@ The plugin accepts a configuration file in the Janus configuration directory nam
 
 - Replace port-based solution with passing direct RTP packets to GStreamer
 - Support for multiple URLs
+
+## Give it a try and reach us
+
+Take a look at our <a href="https://shakuro.com/services/web-dev/?utm_source=github&utm_medium=repository&utm_campaign=janus-plugin-rtmp">web development services</a>
+
+If you need professional assistance with your mobile or web project, feel free to <a href="https://shakuro.com/get-in-touch/?utm_source=github&utm_medium=repository&utm_campaign=janus-plugin-rtmp">contact our team</a
